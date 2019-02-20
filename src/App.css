@@ -1,5 +1,12 @@
+@import '~antd/dist/antd.css';
+
 .App {
   text-align: center;
+}
+
+#button {
+  top: 100px;
+  width: 50%;
 }
 
 .App-logo {
